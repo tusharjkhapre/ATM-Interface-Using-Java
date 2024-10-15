@@ -1,6 +1,6 @@
 # 🏧 ATM Interface Using Java
 
-![ATM Interface Banner](banner-image-url)
+![ATM Interface Banner](https://github.com/tusharjkhapre/ATM-Interface-Using-Java/blob/main/banner.webp)
 
 Welcome to the **ATM Interface** project! This is a command-line-based application developed in Java that simulates the basic functionalities of an ATM machine. The project showcases how to manage user accounts, process transactions, and ensure security through PIN authentication.
 
